@@ -9,6 +9,6 @@ This repository contains jupyter notebooks to implement Extreme Gradient Boostin
 1. Make sure to download all the libraries listed in 'requirements.txt' 
 2. Download the raw data file 'dataLSTM_SR.txt' from [the link](https://drive.google.com/drive/folders/1WgRJtQNJPUq1WAwzHZe1KlrEg_WyRKPb) and save in appropriate directory
 3. Downloads the notebooks in you working directory
-4. Follow the instructions in jypyter notebooks  
+4. Follow the instructions in jupyter notebooks  
 
 
